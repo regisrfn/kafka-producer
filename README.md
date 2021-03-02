@@ -1,5 +1,5 @@
 # KAFKA- API
-Spring boot example with as kafka as message queue
+Spring boot example with kafka as message queue
 
 ## PREREQUISITES
 - Java
